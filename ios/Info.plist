@@ -1,0 +1,11 @@
+<key>UIAppFonts</key>
+<array>
+  <string>Montserrat-Regular.ttf</string>
+  <string>Montserrat-Bold.ttf</string>
+</array>
+
+<key>NSAppTransportSecurity</key>
+<dict>
+  <key>NSAllowsArbitraryLoads</key>
+  <true/>
+</dict>
